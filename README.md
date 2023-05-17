@@ -1,2 +1,2 @@
 # BTech-Project
-Optimized Crop Recommendation By Using ANN inSoil Data Classification
+Optimized Crop Recommendation By Using ANN in Soil Data Classification
